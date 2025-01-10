@@ -2,7 +2,7 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="Homebrew.Edan.Content.index.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/ok-maybe-this-one/refs/heads/main/Homebrew.Edan.Content.index.xml" />
+      <file name="homebrew.index" url="https://raw.githubusercontent.com/o0BriBirdee0o/Homebrew-Index/main/homebrew.index" />
     </update>
   </info>
   <files>
