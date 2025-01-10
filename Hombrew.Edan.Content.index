@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <update version="1.0">
+      <file name="homebrew.index" url="https://raw.githubusercontent.com/o0BriBirdee0o/Homebrew-Index/main/homebrew.index" />
+    </update>
+  </info>
+  <files>
+    <file name="WardenOfTheWild.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Wardenofthewild.xml/refs/heads/main/WardenOfTheWild.xml" />
+    <file name="sporling.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Sporling.xml/refs/heads/main/sporling.xml" />
+    <file name="gemborn.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/gemborn.xml/refs/heads/main/gemborn.xml" />
+  </files>
+</index>
