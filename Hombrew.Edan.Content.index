@@ -2,12 +2,12 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="Homebrew.Edan.Content.index.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/ok-maybe-this-one/refs/heads/main/Homebrew.Edan.Content.index.xml" /> 
+      <file name="Homebrew.Edan.Content.index.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/ok-maybe-this-one/refs/heads/main/Homebrew.Edan.Content.index.xml"/>
     </update>
   </info>
   <files>
-    <file name="WardenOfTheWild.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Wardenofthewild.xml/refs/heads/main/WardenOfTheWild.xml" />
-    <file name="sporling.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Sporling.xml/refs/heads/main/sporling.xml" />
-    <file name="gemborn.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/gemborn.xml/refs/heads/main/gemborn.xml" />
+    <file name="WardenOfTheWild.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Wardenofthewild.xml/refs/heads/main/WardenOfTheWild.xml"/>
+    <file name="sporling.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/Sporling.xml/refs/heads/main/sporling.xml"/>
+    <file name="gemborn.xml" url="https://raw.githubusercontent.com/o0BriBirdee0o/gemborn.xml/refs/heads/main/gemborn.xml"/>
   </files>
 </index>
